@@ -1,0 +1,1 @@
+This repository contains Jupyter Notebooks showing how you can use sqlite3 and Pandas to work with databases and SQL directly in Python. Some of the skills shown in the following tutorials are connecting to and querying an existing database, joining multiple tables together for more advanced queries, and creating your own database from scratch.
